@@ -1,4 +1,0 @@
-blue = 0
-yellow = 1
-orange = 2
-red = 3

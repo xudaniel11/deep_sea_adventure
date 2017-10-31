@@ -418,7 +418,7 @@ class Board:
 		playerPointDict = self.getPlayersPointDistribution()
 		return playerPointDict
 
-testEventFile = "test_moves_4_player.txt"
+testEventFile = "test/test_moves_4_player.txt"
 
 deepsea_board = Board(4, testEventFile)
 pointDict = deepsea_board.play()
